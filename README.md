@@ -109,4 +109,4 @@ MIT — use, fork, adapt, ship.
 
 ## Credits
 
-Built by [Bruna de Oliveira](https://www.linkedin.com/in/<your-handle>). If this is useful to you or you adapt it for an interesting domain, I'd love to hear about it.
+Built by [Bruna de Oliveira](https://www.linkedin.com/in/bruna-oliveira-658873163). If this is useful to you or you adapt it for an interesting domain, I'd love to hear about it.
